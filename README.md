@@ -1,2 +1,2 @@
-# Shahzaib-316-Projects
+# Waqas Khan ICT
 ICT LAB Projects
